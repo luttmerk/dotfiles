@@ -1,0 +1,9 @@
+[user]
+	email = kris.luttmer@shopify.com
+	name = “Kris
+	signingkey = 52819EDCCB3AF4B47A0837FB0853E154EB3DDBF5
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
