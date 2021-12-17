@@ -1,6 +1,10 @@
 export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
 
 alias ls='ls -alGH'
+alias ysk='yarn sewing-kit'
+alias br='./bin/rails'
+alias gaa='git add -A'
+
 ulimit -n 2560
 
 autoload -Uz compinit && compinit
